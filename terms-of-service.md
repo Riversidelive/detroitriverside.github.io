@@ -5,7 +5,7 @@ Effective Date: August 15, 2025
 These Terms of Service ("Terms") govern your access to and use of the Automation Livestream Segments app (the "App"). By using the App, you agree to these Terms.
 
 ## App Description
-- The App is a personal script for automating YouTube livestreams on my channel https://www.youtube.com/@WindsorCanada/live. It is not intended for public use.
+- The App is a personal script for automating YouTube livestreams on my channel. It is not intended for public use.
 
 ## User Responsibilities
 - This App is for my personal use only. You may not access or use it without permission.
